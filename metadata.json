@@ -1,0 +1,7 @@
+{
+  "name": "PantryPairing",
+  "description": "A minimalist food and alcohol pairing consultant. Get recipe recommendations from your fridge's ingredients or find the perfect dish for your favorite drink, all with a touch of French chic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
